@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/409H/sample_nft_project#readme",
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.3.2"
+    "@openzeppelin/contracts": "^4.7.3"
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.5.0",
